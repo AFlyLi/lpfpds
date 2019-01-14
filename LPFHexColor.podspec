@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/AFlyLi/lpfpds.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/AFlyLi/lpfpds.git", :commit => "cb8a9810831c2f0324c12a8d72c6d1941617c165", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
